@@ -1,0 +1,2 @@
+## LMS Demo Back-end
+This project is the Express, Node, and MongoDB back-end of a demo learning management system. It connects with a React front-end and provides access to authentization, authorization, and database storage for users.
